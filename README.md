@@ -10,7 +10,7 @@ Blog entries are stored in `content/blog/<date>-<title>`, along with images.
 
 Otherwise JS is in `src`, but also `gatsby-*.js` files in root for config.
 
-# Editing
+# Edit
 
 Create a blog entry:
 
